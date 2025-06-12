@@ -1,7 +1,7 @@
 # apz-pzpi-22-8-hurov-ivan 
-ПЗПІ-22-8  
-Гуров Іван   
-Патерн проєктування "Bridge"  
-Архітектура відомої програмної системи "Chat GPT"  
-Програмна система для інтелектуального моніторингу стану зносу частин автотранспорту та сповіщення про заміну деталей «AutoCare».
+PZPI-22-8
+Hurov Ivan
+Design Pattern: "Bridge"
+Architecture of the well-known software system "Chat GPT"
+Programmatic system for intelligent monitoring of wear of vehicle parts and notification of replacement needs «AutoCare».
 ---
